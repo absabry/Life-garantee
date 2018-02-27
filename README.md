@@ -1,0 +1,2 @@
+# Life-garantee
+An insurance company wants to build an appetite score for a "life accident guarantee", in a context of cross selling. The data come from various subsidiaries of the group: other products held, sociodemographic elements, lifestyle or consumption patterns, and the observed loss experience. Appetite is designated by a binary column (the target) and the goal is to predict lines with a positive target. Performance is measured by the lift: percentage of customer's appetite identified in the top 10% score.
